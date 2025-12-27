@@ -74,3 +74,18 @@ This talisman would be activated during basic ssh connections, multicast, vpn co
 - **Web**: An intricate web with multiple strands representing different network connections.
 - **Background**: A dark, abstract network-themed backdrop to emphasize connectivity.
 - **Data Flow**: Visual cues (like glowing strands or pulsing nodes) to indicate active data flow across the web. Broken strands could represent dropped connections.
+
+## The Talisman
+
+The Talisman is a powerful artifact that embodies the essence of the device and software. It serves as an icon and as a boot-up animation, symbolizing the core values and functionality of the system. The talisman would animate with dynamic elements that reflect the device's operations and status.
+
+### Triggers
+
+This talisman would be activated during boot-up sequences. The animation would include elements of boot (daemons, networking, etc) coming to life, symbolizing the initialization of the system.
+
+### Display Elements
+
+- **Talisman**: A Precious stone (emerald, ruby, opal, etc) with wrapped in a golden frame, glowing with energy.
+- **Dynamic Elements**: Animated components that represent various system functions being absorbed into the talisman. Talisman glows brighter or increases in size or opacity as more elements are absorbed until boot is complete.
+- **Soul Black Background**: A dark, minimalist backdrop to highlight the talisman and its dynamic elements.
+- **Boot Indication**: Only elements being initialized should be displayed as an icon or subtle visual cue around the talisman, avoiding clutter. Should disappear once been absorbed into the talisman.
